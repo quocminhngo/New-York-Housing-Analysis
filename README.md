@@ -9,6 +9,6 @@ that rent should be no more than 30% of your income.
 Create a data pipeline by web scraping all the currently available price, bathroom, bedroom, and address data for every rental unit from Rentals.com. More specifically, the price, bed
 My goal is to extract the price, bathroom, bedroom, and address information from the corrrect HTML tag and compile it into a structured database in MySQL.
 # Run the Code
-If you want to run the code yourself then follow this 
+If you want to run the code in "Web Scrape.ipynb" then follow this 
 <a href="https://chromedriver.chromium.org/downloads" target="_blank">link</a>
 to download the WebDriver for Chrome. Then install any packages that are listed in the first section of the code.
