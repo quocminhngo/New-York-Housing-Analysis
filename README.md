@@ -6,8 +6,8 @@ if an average New Yorker's salary can still afford a room in New York using
 that rent should be no more than 30% of your income.
 
 # Project Execuation
-Create a data pipeline by web scraping all the currently available price, bathroom, bedroom, and address data for every rental unit from Rentals.com. More specifically, the price, bed
-My goal is to extract the price, bathroom, bedroom, and address information from the corrrect HTML tag and compile it into a structured database in MySQL.
+Create a data pipeline by web scraping all the currently available price, bathroom, bedroom, and address data for every rental unit from Rentals.com. Then export the data as a csv file for transformation in Microsoft Excel before loading the cleaned data into a MySQL database for visualization in a BI tool.
+
 # Run the Code
 If you want to run the code in "Web Scrape.ipynb" then follow this 
 <a href="https://chromedriver.chromium.org/downloads" target="_blank">link</a>
