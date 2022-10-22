@@ -6,7 +6,7 @@ if an average New Yorker's salary can still afford a room in New York using
 that rent should be no more than 30% of your income.
 
 # Project Execuation
-Create a data pipeline by web scraping all the currently available price, bathroom, bedroom, and address data for every rental unit from Rentals.com using Python Selenium library. Then export the data as a csv file for transformation in Microsoft Excel before loading the cleaned data into a MySQL database for visualization in a BI tool. The code showcased on this page will focus on extracting the data, the rest of the project can be found at 
+Create an ETL data pipeline by web scraping all the currently available price, bathroom, bedroom, and address data of every rental unit from Rentals.com using Python Selenium library. Then export the data as a csv file for transformation in Microsoft Excel before loading the cleaned data into a MySQL database for visualization in a BI tool. The code showcased on this page will focus on extracting the data, the rest of the project can be found at 
 <a href="quocminhngo.com/new-york-housing-analysis" target="_blank">quocminhngo.com/new-york-housing-analysis</a>
 
 
