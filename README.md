@@ -11,6 +11,6 @@ Create a data pipeline by web scraping all the currently available price, bathro
 
 
 # Run the Code
-If you want to run the code in "Web Scrape.ipynb" then follow this 
+If you want to run the code in "web-scrape.ipynb" then follow this 
 <a href="https://chromedriver.chromium.org/downloads" target="_blank">link</a>
 to download the WebDriver for Chrome. Then install any packages that are listed in the first section of the code.
